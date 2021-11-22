@@ -1,0 +1,4 @@
+scapy
+xlsxwriter
+argparse
+cryptography
